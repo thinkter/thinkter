@@ -1,8 +1,9 @@
-## yo
+### hey i am Ashman
+### this profile just holds stuff that I make so that people could stalk me. i hope to create something that people will genuinely find useful one day.
 
-# I am Ashman Singh, currently an undergrad student @ VIT Vellore
-
-this profile just holds stuff that I make so that people could stalk me
+current Setup:
+Thinkpad e14 ryzen 5
+Manjaro + sway(mostly default rice idgaf about making stuff look pretty)
 <!--
 **thinkter/thinkter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
