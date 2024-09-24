@@ -1,5 +1,8 @@
-## Hi there 👋
+## yo
 
+# I am Ashman Singh, currently an undergrad student @ VIT Vellore
+
+this profile just holds stuff that I make so that people could stalk me
 <!--
 **thinkter/thinkter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
