@@ -1,9 +1,33 @@
-### hey i am Ashman
-### this profile just holds stuff that I make so that people could stalk me. i hope to create something that people will genuinely find useful one day.
+  /$$$$$$            /$$                                                /$$$$$$  /$$                     /$$      
+ /$$__  $$          | $$                                               /$$__  $$|__/                    | $$      
+| $$  \ $$  /$$$$$$$| $$$$$$$  /$$$$$$/$$$$   /$$$$$$  /$$$$$$$       | $$  \__/ /$$ /$$$$$$$   /$$$$$$ | $$$$$$$ 
+| $$$$$$$$ /$$_____/| $$__  $$| $$_  $$_  $$ |____  $$| $$__  $$      |  $$$$$$ | $$| $$__  $$ /$$__  $$| $$__  $$
+| $$__  $$|  $$$$$$ | $$  \ $$| $$ \ $$ \ $$  /$$$$$$$| $$  \ $$       \____  $$| $$| $$  \ $$| $$  \ $$| $$  \ $$
+| $$  | $$ \____  $$| $$  | $$| $$ | $$ | $$ /$$__  $$| $$  | $$       /$$  \ $$| $$| $$  | $$| $$  | $$| $$  | $$
+| $$  | $$ /$$$$$$$/| $$  | $$| $$ | $$ | $$|  $$$$$$$| $$  | $$      |  $$$$$$/| $$| $$  | $$|  $$$$$$$| $$  | $$
+|__/  |__/|_______/ |__/  |__/|__/ |__/ |__/ \_______/|__/  |__/       \______/ |__/|__/  |__/ \____  $$|__/  |__/
+                                                                                               /$$  \ $$          
+                                                                                              |  $$$$$$/          
+                                                                                               \______/           
+This profile is just a place where I drop things I make — mostly so people can stalk me if they want to.  
+One day, I hope to build something genuinely useful.
 
-current Setup:
-Thinkpad e14 ryzen 5
-Manjaro + sway(mostly default rice idgaf about making stuff look pretty)
+---
+
+## Current Setup
+
+- **Laptop**: ThinkPad E14 (Ryzen 5)  
+- **OS**: Arch Linux
+- **WM**: Sway
+- **Terminal Emulator**: Kitty
+
+  ![image](https://github.com/user-attachments/assets/f991fb72-72cc-4857-b249-499edc4d9c81)
+
+
+---
+
+Cheers
+
 <!--
 **thinkter/thinkter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
