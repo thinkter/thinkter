@@ -35,7 +35,8 @@ One day, I hope to build something genuinely useful.
 - **WM**: Sway
 - **Terminal Emulator**: Kitty
 
-  ![image](https://github.com/user-attachments/assets/f991fb72-72cc-4857-b249-499edc4d9c81)
+  ![image](https://github.com/user-attachments/assets/a9c36cef-2651-4251-bbe5-900adbc331b1)
+
 
 
 ---
