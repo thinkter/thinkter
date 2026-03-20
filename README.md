@@ -21,4 +21,4 @@ I like to record stuff on my sony hdr-cx150e
 - Window Manager: Niri (prev Sway and i3 the animations were just too cool not to switch ●︿●)
 - Terminal Emulator: Ghostty
 - Text Editor: Zed
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c4c52f65-62fa-4596-a590-8d5b6456427c" />
+<img width="480" height="300" alt="image" src="https://github.com/user-attachments/assets/c4c52f65-62fa-4596-a590-8d5b6456427c" />
