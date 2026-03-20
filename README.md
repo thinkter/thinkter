@@ -1,7 +1,7 @@
 ### yoo :D
 I like computers, music and art!
 
-I like to record stuff on the side on my sony hdr-cx150e
+I like to record stuff on my sony hdr-cx150e
 
 ### moosik i've been listening to
 - Phrases by TOPAZ
