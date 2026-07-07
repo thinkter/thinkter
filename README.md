@@ -1,7 +1,7 @@
 ### yoo :D
-I like computers, music and art!
+i like computers, music and art!
 
-I like to record stuff on my sony hdr-cx150e
+i like to record stuff on my sony hdr-cx150e
 
 ### moosik i've been listening to
 - Phrases by TOPAZ
@@ -16,9 +16,8 @@ I like to record stuff on my sony hdr-cx150e
 
 ### current setup
 
-- Laptop: ThinkPad E14 (Ryzen 5)  
-- OS: Arch Linux
-- Window Manager: Niri (prev Sway and i3 the animations were just too cool not to switch ●︿●)
-- Terminal Emulator: Ghostty
-- Text Editor: Zed
+- laptop: ThinkPad E14 (Ryzen 5)  
+- wm: Niri
+- terminal emulator: Ghostty
+- text editor: Zed
 <img width="480" height="300" alt="image" src="https://github.com/user-attachments/assets/c4c52f65-62fa-4596-a590-8d5b6456427c" />
