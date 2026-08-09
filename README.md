@@ -1,25 +1,11 @@
 ### yoo :D
+i like computers, music and art! i like to record stuff on my sony hdr-cx150e
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-i like computers, music and art!
-
-i like to record stuff on my sony hdr-cx150e
-
-</td>
-<td width="45%" valign="top">
-
-<b>current setup</b><br><br>
+<b>current setup</b><br>
 laptop: ThinkPad E14 (Ryzen 5)<br>
 wm: Niri<br>
 terminal: Ghostty<br>
 editor: Zed
-
-</td>
-</tr>
-</table>
 
 ### moosik i've been listening to
 
