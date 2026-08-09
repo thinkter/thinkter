@@ -88,9 +88,12 @@ editor: Zed
 <img src="assets/music/alive-2007.jpg" width="110"><br>
 <sub><b>Alive 2007</b><br>Daft Punk</sub>
 </a>
+            <td align="center">
+<a href="https://open.spotify.com/album/5Vb4K4Xf4KPFupmhHi5COM">
+<img src="assets/music/jump-out.jpg" width="110"><br>
+<sub><b>Jump Out</b><br>OsamaSon</sub>
+</a>
 </td>
-
-<td></td>
 </tr>
 </table>
 
