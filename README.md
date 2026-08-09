@@ -1,23 +1,96 @@
 ### yoo :D
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
 i like computers, music and art!
 
 i like to record stuff on my sony hdr-cx150e
 
+</td>
+<td width="45%" valign="top">
+
+<b>current setup</b><br><br>
+laptop: ThinkPad E14 (Ryzen 5)<br>
+wm: Niri<br>
+terminal: Ghostty<br>
+editor: Zed
+
+</td>
+</tr>
+</table>
+
 ### moosik i've been listening to
-- Phrases by TOPAZ
-- BAFK by nettspend
-- Trick by Alex G
-- 9 by Pacific Sharpeye
-- For Nothing by Nine Vicious
-- Before the Night by HOME(Randy Goffe)
-- AGC by Ken Carson
-- Singles by The Tamaashbeens
-- Alive 2007 by Daft Punk
 
-### current setup
+<table>
+<tr>
+<td align="center">
+<a href="https://open.spotify.com/album/2Cdo72vcitFAvuxz76r82c">
+<img src="assets/music/phrases.jpg" width="110"><br>
+<sub><b>Phrases</b><br>TOPAZ</sub>
+</a>
+</td>
 
-- laptop: ThinkPad E14 (Ryzen 5)  
-- wm: Niri
-- terminal emulator: Ghostty
-- text editor: Zed
-<img width="480" height="300" alt="image" src="https://github.com/user-attachments/assets/c4c52f65-62fa-4596-a590-8d5b6456427c" />
+<td align="center">
+<a href="https://open.spotify.com/album/2j74DNrJ8TgnMEukERqnnm">
+<img src="assets/music/bafk.jpg" width="110"><br>
+<sub><b>BAFK</b><br>nettspend</sub>
+</a>
+</td>
+
+<td align="center">
+<a href="https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH">
+<img src="assets/music/trick.jpg" width="110"><br>
+<sub><b>Trick</b><br>Alex G</sub>
+</a>
+</td>
+
+<td align="center">
+<a href="https://open.spotify.com/album/1O8SQnj9d6KK9URGhAokAz">
+<img src="assets/music/9.jpg" width="110"><br>
+<sub><b>9</b><br>Pacific Sharpeye</sub>
+</a>
+</td>
+
+<td align="center">
+<a href="https://open.spotify.com/album/4apnTORFFrrRlpXeZQibAf">
+<img src="assets/music/for-nothing.jpg" width="110"><br>
+<sub><b>For Nothing</b><br>Nine Vicious</sub>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://open.spotify.com/album/3VgUCYG7ET9QIYEuouCyhX">
+<img src="assets/music/before-the-night.jpg" width="110"><br>
+<sub><b>Before the Night</b><br>HOME</sub>
+</a>
+</td>
+
+<td align="center">
+<a href="https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW">
+<img src="assets/music/agc.jpg" width="110"><br>
+<sub><b>A Great Chaos</b><br>Ken Carson</sub>
+</a>
+</td>
+
+<td align="center">
+<a href="https://open.spotify.com/album/5iOPjhZb6eWh3I6SpwfbJ4">
+<img src="assets/music/singles.jpg" width="110"><br>
+<sub><b>Singles</b><br>The Tamaashbeens</sub>
+</a>
+</td>
+
+<td align="center">
+<a href="https://open.spotify.com/album/7u6zL7kqpgLPISZYXNTgYk">
+<img src="assets/music/alive-2007.jpg" width="110"><br>
+<sub><b>Alive 2007</b><br>Daft Punk</sub>
+</a>
+</td>
+
+<td></td>
+</tr>
+</table>
+
