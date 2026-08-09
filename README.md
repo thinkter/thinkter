@@ -1,4 +1,4 @@
-### yoo :D
+### yoo
 i like computers, music and art! i like to record stuff on my sony hdr-cx150e
 
 <b>current setup</b><br>
