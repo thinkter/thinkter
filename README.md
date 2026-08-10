@@ -1,11 +1,21 @@
-### yoo
-i like computers, music and art! i like to record stuff on my sony hdr-cx150e
-
-<b>current setup</b><br>
-laptop: ThinkPad E14 (Ryzen 5)<br>
-wm: Niri<br>
-terminal: Ghostty<br>
-editor: Zed
+<table>
+  <thead>
+    <tr>
+      <th align="left">laptop</th>
+      <th align="left">wm</th>
+      <th align="left">terminal</th>
+      <th align="left">editor</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ThinkPad E14 (Ryzen 5)</td>
+      <td>Niri</td>
+      <td>Ghostty</td>
+      <td>Zed</td>
+    </tr>
+  </tbody>
+</table>
 
 ### moosik i've been listening to
 
